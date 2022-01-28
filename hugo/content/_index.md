@@ -35,7 +35,8 @@ this is my centralized note-taking website for my current semseter at UC Berkele
 #### [Physics](/berkeley-notes/docs/physics7a/_index.md)
 - [ ]  Mastering Physics HW 1 : Friday 1/28
 - [ ]  Textbook Physics HW (63, 67, 81,89) : Friday 1/28
-- [ ] Read [Chapter 3](notes/physics7a/3/) \/
+- [ ] Read [Chapter 3](notes/physics7a/3/) 
+jkfdsl
 
 
 #### [Linear Algebra I](/Berkeley-Notes/docs/math54/) 
