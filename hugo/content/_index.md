@@ -5,6 +5,10 @@ type: docs
 
 ### Home.
 
+## Today
+- []
+- [ ] 
+
 ## Assignments 
 
 - [ ] enroll in csm // ensure credits transfer >> **pretty much done, awaiting response from professor**
@@ -26,7 +30,7 @@ type: docs
     &rarr; and do those problems (only after all assignments are complete though)
 
 #### [Physics](/notes/docs/physics7a/)
-- [ ]  Mastering Physics HW 1 : Friday 1/28
+- [x]  Mastering Physics HW 1 : Friday 1/28
 - [ ]  Textbook Physics HW (63, 67, 81,89) : Friday 1/28
 - [ ] Read [Chapter 3](/notes/physics7a/3/) 
 - [physics textbook](hugo/static/docs/physics7a/physics-textbook.pdf) 
