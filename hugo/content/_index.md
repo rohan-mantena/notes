@@ -3,14 +3,7 @@ title: Home
 type: docs 
 ---
 
-### ___
-this is my centralized note-taking website for my current semseter at UC Berkeley. 
-
-#### issues with the site:
--  instances of using/referencing/linking local files (images, markdown, etc) are to no avail 
-    - most likely has something to do with hidden file that has been accidentally edited
-
- &rarr; use max's files and copy neccesary content from content and other configs
+### Home.
 
 ## Assignments 
 
