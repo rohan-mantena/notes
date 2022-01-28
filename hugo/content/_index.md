@@ -20,7 +20,7 @@ this is my centralized note-taking website for my current semseter at UC Berkele
     - look at other classes for future sems
 - [x] linux decal (lab0) 
 
-#### [CS](hugo/content/docs/cs61b/_index.md) 
+#### [CS](/notes/cs61b/) 
 - [ ] **Project 0 :**
     - [ ] **Checkpoint 1 ~[specify later] : Sunday 1/30**
     - [ ] **Checkpoint 2 ~finish : Thursday 2/3** 
@@ -32,11 +32,10 @@ this is my centralized note-taking website for my current semseter at UC Berkele
 - [ ] go through notes and discussion worksheet 
     &rarr; and do those problems (only after all assignments are complete though)
 
-#### [Physics](/berkeley-notes/docs/physics7a/_index.md)
+#### [Physics](/notes/physics7a/)
 - [ ]  Mastering Physics HW 1 : Friday 1/28
 - [ ]  Textbook Physics HW (63, 67, 81,89) : Friday 1/28
 - [ ] Read [Chapter 3](/notes/physics7a/3/) 
-jkfdsl/notes/physics7a/3/
 
 
 #### [Linear Algebra I](/Berkeley-Notes/docs/math54/) 
