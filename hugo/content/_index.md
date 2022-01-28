@@ -36,9 +36,10 @@ this is my centralized note-taking website for my current semseter at UC Berkele
 - [ ]  Mastering Physics HW 1 : Friday 1/28
 - [ ]  Textbook Physics HW (63, 67, 81,89) : Friday 1/28
 - [ ] Read [Chapter 3](/notes/physics7a/3/) 
+- [physics textbook](hugo/static/docs/physics7a/physics-textbook.pdf) 
 
 
-#### [Linear Algebra I](/notes/docs/physics7a/math54/) 
+#### [Linear Algebra I](/notes/docs/math54/) 
 - [ ] Finish 3Blue1Brown ['Essence of Linear Algebra'](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) series : Sunday 1/30
 - [ ] Read 1.1-1.3 in [textbook](Desktop/Math54/LinearAlgTxt.pdf) : Sunday 1/30
 
