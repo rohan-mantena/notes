@@ -32,7 +32,7 @@ this is my centralized note-taking website for my current semseter at UC Berkele
 - [ ] go through notes and discussion worksheet 
     &rarr; and do those problems (only after all assignments are complete though)
 
-#### [Physics](/notes/physics7a/)
+#### [Physics](/notes/physics7a/_index.md)
 - [ ]  Mastering Physics HW 1 : Friday 1/28
 - [ ]  Textbook Physics HW (63, 67, 81,89) : Friday 1/28
 - [ ] Read [Chapter 3](/notes/physics7a/3/) 
