@@ -1,12 +1,12 @@
-# hugo server --minify
 
-baseURL: http://notes.mehvix.com/
+baseURL: https://rohan-mantena.github.io/Berkeley-Notes/
 languageCode: en-us
-title: notes.mehvix.com
+title: berkeley.notes
 theme: hugo-book
+languageCode: en-us
 publishDir: ../docs
 
-# Need for GH Automation
+
 module:
     imports:
         - path: hugo-book
@@ -15,37 +15,29 @@ mathjax: true
 
 permalinks:
     docs: "/:sections[last]/:filename"
-    # todo update when to [department][class][file] later
+
 
 # Book configuration
 disablePathToLower: true
 enableGitInfo: true
 
-# (Optional) Theme is intended for documentation use, therefore it doesn't render taxonomy.
-# You can remove related files with config below
-disableKinds: ["taxonomy", "taxonomyTerm"]
-
 # Needed for mermaid/katex shortcodes
 markup:
-    goldmark:
-        renderer:
-            unsafe: true
-    tableOfContents:
-        startLevel: 1
+  goldmark:
+    renderer: 
+      unsafe: true
+  tableOfContents:
+    startLevel: 1
+
+
 menu:
-    after:
-        - name: "CS61A (Anto's)"
-          url: "https://cs61a.rouxl.es/"
-          weight: 1
-        - name: "—"
-          weight: 2
-          url: "#"
-        - name: "w³.mehvix.com"
-          url: "https://www.mehvix.com"
-          weight: 3
-        - name: "pass.mehvix.com"
-          url: "https://pass.mehvix.com"
-          weight: 4
+  # before: []
+  after:
+    - name: "Assignments"
+      url: "https://static.wikia.nocookie.net/disney/images/d/dd/Profile_-_Lewis_Robinson.jpeg/revision/latest?cb=20190624041928"
+      weight: 10
+
+
 
 params:
     custom_css: ["css/custom_styling.css"]
@@ -74,7 +66,7 @@ params:
 
     # Set source repository location.
     # Used for 'Last Modified' and 'Edit this page' links.
-    BookRepo: https://github.com/Mehvix/notes
+    BookRepo: https://github.com/rohan-mantena/Berkeley-Notes
 
     # (Optional, default 'commit') Specifies commit portion of the link to the page's last modified
     # commit hash for 'doc' page type.

@@ -1,30 +1,44 @@
 ---
 title: Home
-type: docs
+type: docs 
 ---
 
-# notes
+### ___
+this is my centralized note-taking website for my current semseter at UC Berkeley. 
 
-Using [hugo](https://gohugo.io/) + [book](https://github.com/alex-shpak/hugo-book/) theme. Feel free to point out or even correct mistakes by creating an [issue](https://github.com/Mehvix/notes/issues/new)/[PR](https://github.com/Mehvix/notes/compare) or through reaching out to any of my contacts listed on [my website](https://www.mehvix.com).
+#### issues with the site:
+-  instances of using/referencing/linking local files (images, markdown, etc) are to no avail 
+    - most likely has something to do with hidden file that has been accidentally edited
 
-# contributing
+ &rarr; use max's files and copy neccesary content from content and other configs
 
-Make a pull request on the [GitHub repository](https://github.com/Mehvix/notes). You only have to edit the `master` branch, GH actions generate the site after each push in the `gh-pages` branch (so ignore it). 
+## Assignments 
 
-When cloning this repository, you will (probably) have to run the following command to pull the book theme submodule:
-```cmd
-git submodule update --init --recursive
-```
+- [x] enroll in csm // ensure credits transfer >> **pretty much done, awaiting response from professor**
+    - [ ] enroll in engl 100 
+        &rarr; emailed professor for online engl100 at Cañada (need registration code)
+    - look at other classes for future sems
+- [x] linux decal (lab0) 
 
-# todos
+#### [CS](/Berkeley-Notes/docs/cs61b/) 
+- [ ] **Project 0 :**
+    - [ ] **Checkpoint 1 ~[specify later] : Sunday 1/30**
+    - [ ] **Checkpoint 2 ~finish : Thursday 2/3** 
+- [ ] Check submission and score of hw0 : Friday 1/28
+- [x] Lab 2 : Tuesday 2/1
+- [x] HW 1 :  Tuesday 2/1 
+    - Check total savings real interest (maybe add more tests)
+- [ ] 1PM Lecture (review notes of this week's reading beforehand
+- [ ] go through notes and discussion worksheet 
+    &rarr; and do those problems (only after all assignments are complete though)
 
-- [ ] [OneDark](https://raw.githubusercontent.com/joshdick/onedark.vim/main/img/color_reference.png) theme :o
-- [ ] HLJS -- will implement if I ever end up taking notes in a CS class
-- [ ] Hugo function to generate preview of each class's notes on the their respective 'home' pages
-    - E.x notes.mehvix.com/e-29/ would show a compilation of every week's table of contents
----
-- [x] Import old [AP notes](https://github.com/Mehvix/ap-notes)
-    - Made in Notion, will need to be cleaned up
-<!-- - [ ] Create folders for each department with subfolders for each class 
-    - e.g. Math > 53 > \[chapters] -->
-<!-- ^Decided against  -->
+#### [Physics](/Berkeley-Notes/docs/physics7a/)
+- [ ]  Mastering Physics HW 1 : Friday 1/28
+- [ ]  Textbook Physics HW (63, 67, 81,89) : Friday 1/28
+- [ ] Read [Chapter 3](content/docs/physics7a/3.md) 
+
+
+#### [Linear Algebra I](/Berkeley-Notes/docs/math54/) 
+- [ ] Finish 3Blue1Brown ['Essence of Linear Algebra'](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) series : Sunday 1/30
+- [ ] Read 1.1-1.3 in [textbook](Desktop/Math54/LinearAlgTxt.pdf) : Sunday 1/30
+
