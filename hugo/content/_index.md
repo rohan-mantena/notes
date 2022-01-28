@@ -14,7 +14,7 @@ this is my centralized note-taking website for my current semseter at UC Berkele
 
 ## Assignments 
 
-- [x] enroll in csm // ensure credits transfer >> **pretty much done, awaiting response from professor**
+- [ ] enroll in csm // ensure credits transfer >> **pretty much done, awaiting response from professor**
     - [ ] enroll in engl 100 
         &rarr; emailed professor for online engl100 at Cañada (need registration code)
     - look at other classes for future sems
