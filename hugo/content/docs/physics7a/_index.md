@@ -10,7 +10,8 @@ bookCollapseSection: true
 ---
 "On the way to become a Quantum God..."
 
-
 # Chapters
 
 {{< lst "1" "2" "3" "4" "5" "6" >}}
+
+&rarr; finish chapter 3 + written notes . 

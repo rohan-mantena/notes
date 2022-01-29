@@ -6,8 +6,12 @@ type: docs
 ### Home.
 
 ## Today
-- []
-- [ ] 
+- [ ] do Textbook Physics HW (63, 67, 81,89) : Friday 1/28
+- [ ] check beacon [grades](https://beacon.datastructur.es/grades) - check piazza and beacon frequently 
+    - [ ] hw0 grade (0.9/2.0)  
+    - [ ] lab2 (3.0/4.0)
+- [ ] watch 2-4 lin 
+
 
 ## Assignments 
 
