@@ -2,16 +2,14 @@
 <head>
 <meta charset=utf-8>
 <meta name=viewport content="width=device-width,initial-scale=1">
-<meta name=description content="Pretty rudimentary stuff&mldr;
- Come back and add the basic dimensional analysis and etc that seems vaguely important  ">
+<meta name=description content="project-home-page  summary of instructions #   setup:  the puzzle #  : the actual puzzle is a grid of empty square cells (the board) and a set of a number of pieces that are in the form of a configuration of those sqaure cell blocks (one's hand)   - after each piece is placed, any cells that have been filled are cleared - after all the pieces inone&rsquo;s hand are placed, it is refilled with the same number of pieces as before - play continues until none of the pieces in the hand can fit anywhere on the board">
 <meta name=theme-color content="#FFFFFF">
-<meta name=color-scheme content="light dark"><meta property="og:title" content="Chapter 1: Intro, Measurement, Estimating">
-<meta property="og:description" content="Pretty rudimentary stuff&mldr;
- Come back and add the basic dimensional analysis and etc that seems vaguely important  ">
+<meta name=color-scheme content="light dark"><meta property="og:title" content="Project 0">
+<meta property="og:description" content="project-home-page  summary of instructions #   setup:  the puzzle #  : the actual puzzle is a grid of empty square cells (the board) and a set of a number of pieces that are in the form of a configuration of those sqaure cell blocks (one's hand)   - after each piece is placed, any cells that have been filled are cleared - after all the pieces inone&rsquo;s hand are placed, it is refilled with the same number of pieces as before - play continues until none of the pieces in the hand can fit anywhere on the board">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://rohan-mantena.github.io/notes/physics7a/1/"><meta property="article:section" content="docs">
-<meta property="article:modified_time" content="2022-01-27T20:42:41-08:00">
-<title>Chapter 1: Intro, Measurement, Estimating | berkeley.notes</title>
+<meta property="og:url" content="https://rohan-mantena.github.io/notes/cs61b/projcect0/"><meta property="article:section" content="docs">
+<meta property="article:modified_time" content="2022-01-29T15:33:52-08:00">
+<title>Project 0 | berkeley.notes</title>
 <link rel=manifest href=/notes/manifest.json>
 <link rel=icon href=/notes/favicon.png type=image/x-icon>
 <link rel=stylesheet href=/notes/book.min.89a77f7e702a8626749b948bbfb01109823daf6c1246ca407d1378833494c402.css integrity="sha256-iad/fnAqhiZ0m5SLv7ARCYI9r2wSRspAfRN4gzSUxAI=" crossorigin=anonymous>
@@ -41,13 +39,13 @@
 </div>
 <ul>
 <li>
-<input type=checkbox id=section-85bfb3597cd33a5916a6cbe038398cff class=toggle>
+<input type=checkbox id=section-85bfb3597cd33a5916a6cbe038398cff class=toggle checked>
 <label for=section-85bfb3597cd33a5916a6cbe038398cff class="flex justify-between">
 <a href=https://rohan-mantena.github.io/notes/docs/cs61b/>CS 61B</a>
 </label>
 <ul>
 <li>
-<a href=https://rohan-mantena.github.io/notes/cs61b/projcect0/>Project 0</a>
+<a href=https://rohan-mantena.github.io/notes/cs61b/projcect0/ class=active>Project 0</a>
 </li>
 </ul>
 </li>
@@ -60,13 +58,13 @@
 </ul>
 </li>
 <li>
-<input type=checkbox id=section-207a0baa5595ff8c2709e9b9d0a3270a class=toggle checked>
+<input type=checkbox id=section-207a0baa5595ff8c2709e9b9d0a3270a class=toggle>
 <label for=section-207a0baa5595ff8c2709e9b9d0a3270a class="flex justify-between">
 <a href=https://rohan-mantena.github.io/notes/docs/physics7a/>Physics 7A</a>
 </label>
 <ul>
 <li>
-<a href=https://rohan-mantena.github.io/notes/physics7a/1/ class=active>Chapter 1: Intro, Measurement, Estimating</a>
+<a href=https://rohan-mantena.github.io/notes/physics7a/1/>Chapter 1: Intro, Measurement, Estimating</a>
 </li>
 <li>
 <a href=https://rohan-mantena.github.io/notes/physics7a/2/>Chapter 2: Describing Motion: Kinematics in 1D</a>
@@ -94,29 +92,61 @@ Assignments
 <label for=menu-control>
 <img src=/notes/svg/menu.svg class=book-icon alt=Menu>
 </label>
-<strong>Chapter 1: Intro, Measurement, Estimating</strong>
+<strong>Project 0</strong>
 <label for=toc-control>
 <img src=/notes/svg/toc.svg class=book-icon alt="Table of Contents">
 </label>
 </div>
 <aside class="hidden clearfix">
-<nav id=TableOfContents></nav>
+<nav id=TableOfContents>
+<ul>
+<li>
+<ul>
+<li><a href=#summary-of-instructions>summary of instructions</a>
+<ul>
+<li><a href=#the-puzzle>the puzzle</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
 </aside>
 </header>
-<article class=markdown><p>Pretty rudimentary stuff&mldr;</p>
-<ul>
-<li><input disabled type=checkbox> Come back and add the basic dimensional analysis and etc that seems vaguely important</li>
+<article class=markdown><ul>
+<li>
+<a href=https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/proj/proj0/index.html>project-home-page</a></li>
 </ul>
+<h2 id=summary-of-instructions>
+summary of instructions
+<a class=anchor href=#summary-of-instructions>#</a>
+</h2>
+<ul>
+<li><input disabled type=checkbox> setup:</li>
+</ul>
+<h3 id=the-puzzle>
+the puzzle
+<a class=anchor href=#the-puzzle>#</a>
+</h3>
+<pre><code>: the actual puzzle is a grid of empty square cells (the board) and a set of a number of pieces that are in the form of a configuration of those sqaure cell blocks (one's hand) 
+</code></pre>
+<p>
+<img src=https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/proj/proj0/img/figure1.png alt=image>
+- after each piece is placed, any cells that have been filled are cleared
+- after all the pieces inone&rsquo;s hand are placed, it is refilled with the same number of pieces as before
+- play continues until none of the pieces in the hand can fit anywhere on the board</p>
+<pre><code>- **by default** the board consists of an 8x8 grid (64 cells) and the hand contains 3 pieces at a time - need to able to change these parameters though 
+</code></pre>
 </article>
 <footer class=book-footer>
 <div class="flex flex-wrap justify-between">
-<div><a class="flex align-center" href=https://github.com/rohan-mantena/notes/commit/cd92c4b5c58159b3d8d794a2254347a801e3b030 title="Last modified by Rohan Mantena | January 28, 2022" target=_blank rel=noopener>
+<div><a class="flex align-center" href=https://github.com/rohan-mantena/notes/commit/cff11585ab647336adf293bb09b70dea54f0e652 title="Last modified by Rohan Mantena | January 29, 2022" target=_blank rel=noopener>
 <img src=/notes/svg/calendar.svg class=book-icon alt=Calendar>
-<span>January 28, 2022</span>
+<span>January 29, 2022</span>
 </a>
 </div>
 <div>
-<a class="flex align-center" href=https://github.com/rohan-mantena/notes/edit/master/hugo/content/docs/physics7a/1.md target=_blank rel=noopener>
+<a class="flex align-center" href=https://github.com/rohan-mantena/notes/edit/master/hugo/content/docs/cs61b/projcect0.md target=_blank rel=noopener>
 <img src=/notes/svg/edit.svg class=book-icon alt=Edit>
 <span>Edit this page</span>
 </a>
@@ -130,7 +160,19 @@ Assignments
 </div>
 <aside class=book-toc>
 <div class=book-toc-content>
-<nav id=TableOfContents></nav>
+<nav id=TableOfContents>
+<ul>
+<li>
+<ul>
+<li><a href=#summary-of-instructions>summary of instructions</a>
+<ul>
+<li><a href=#the-puzzle>the puzzle</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
 </div>
 </aside>
 </main>
