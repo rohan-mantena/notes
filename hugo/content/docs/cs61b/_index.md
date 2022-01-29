@@ -8,3 +8,5 @@ bookCollapseSection: true
 
 
 "Seek out knowledge"
+cmon see this !!
+[check out](notes/physics7a/3/)
