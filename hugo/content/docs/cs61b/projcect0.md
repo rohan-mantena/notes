@@ -17,4 +17,5 @@ weight: 3
     - after all the pieces inone's hand are placed, it is refilled with the same number of  pieces as before 
     - play continues until none of the pieces in the hand can fit anywhere on the board 
     
-    - **by default** the board consists of an 8x8 grid (64 cells) and the hand contains 3 pieces at a time - need to able to change these parameters though 
+ 
+**by default** the board consists of an 8x8 grid (64 cells) and the hand contains 3 pieces at a time - need to able to change these parameters though 
