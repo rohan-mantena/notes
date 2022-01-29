@@ -6,11 +6,11 @@ type: docs
 ### Home.
 
 ## Today
-- [ ] do Textbook Physics HW (63, 67, 81,89) : Friday 1/28
-- [ ] check beacon [grades](https://beacon.datastructur.es/grades) - check piazza and beacon frequently 
-    - [ ] hw0 grade (0.9/2.0)  
-    - [ ] lab2 (3.0/4.0)
-- [ ] watch 2-4 lin 
+- [ ] watch [vidoes](https://www.youtube.com/watch?v=uQhTuRlWMxw&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=7&t=36s) 7 through 10 of 3B1B linear algebra videos 
+- ugba 135 
+    - [ ] read through notes and make small summaries 
+    - [ ] check on textbook 
+- [ ] do [r5a assignment](https://bcourses.berkeley.edu/courses/1512298/discussion_topics/6242574)
 
 
 ## Assignments 
@@ -25,17 +25,12 @@ type: docs
 - [ ] **Project 0 :**
     - [ ] **Checkpoint 1 ~[specify later] : Sunday 1/30**
     - [ ] **Checkpoint 2 ~finish : Thursday 2/3** 
-- [ ] Check submission and score of hw0 : Friday 1/28
-- [x] Lab 2 : Tuesday 2/1
-- [x] HW 1 :  Tuesday 2/1 
-    - Check total savings real interest (maybe add more tests)
-- [ ] 1PM Lecture (review notes of this week's reading beforehand
 - [ ] go through notes and discussion worksheet 
     &rarr; and do those problems (only after all assignments are complete though)
 
 #### [Physics](/notes/docs/physics7a/)
-- [x]  Mastering Physics HW 1 : Friday 1/28
-- [ ]  Textbook Physics HW (63, 67, 81,89) : Friday 1/28
+- [ ]  Mastering Physics HW 
+- [ ]  Textbook Physics HW
 - [ ] Read [Chapter 3](/notes/physics7a/3/) 
 - [physics textbook](hugo/static/docs/physics7a/physics-textbook.pdf) 
 
