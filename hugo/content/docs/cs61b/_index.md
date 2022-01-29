@@ -9,4 +9,4 @@ bookCollapseSection: true
 
 "Seek out knowledge"
 cmon see this !!
-[check out](notes/physics7a/3/)
+[check out](https://rohan-mantena.github.io/notes/physics7a/3/)
