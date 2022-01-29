@@ -1,6 +1,6 @@
 ---
 title: "CS 61B"
-weight: 12
+weight: 1
 bookFlatSection: false
 bookHidden: false
 bookCollapseSection: true
