@@ -4,10 +4,12 @@ weight: 5
 bookFlatSection: false
 bookHidden: false
 bookCollapseSection: true
+aliases:
+    - /ugba135/
 ---
 
 # Weeks
-
+{{< lst "1" "2" >}}
 
 # [Textbook: the Missing Link](hugo/content/docs/ugba135/theMissingLink.pdf) 
 
