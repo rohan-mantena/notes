@@ -6,6 +6,7 @@ type: docs
 ### Home.
 
 ## Today
+- [ ] email more professors about engl100 
 - [ ] watch [vidoes](https://www.youtube.com/watch?v=uQhTuRlWMxw&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=7&t=36s) 7 through 10 of 3B1B linear algebra videos 
 - ugba 135 
     - [ ] read through notes and make small summaries 
