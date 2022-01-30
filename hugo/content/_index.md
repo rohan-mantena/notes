@@ -10,7 +10,7 @@ type: docs
 - ugba 135 
     - [ ] read through notes and make small summaries 
     - [ ] check on textbook 
-- [ ] do [r5a assignment](https://bcourses.berkeley.edu/courses/1512298/discussion_topics/6242574)
+- [x] do [r5a assignment](https://bcourses.berkeley.edu/courses/1512298/discussion_topics/6242574)
     >> 
         1. What I found interesting/surprising in Dunlap's readings : 
 

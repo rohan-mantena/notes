@@ -19,3 +19,11 @@ weight: 3
     
  
 **by default** the board consists of an 8x8 grid (64 cells) and the hand contains 3 pieces at a time - need to able to change these parameters though 
+
+
+### scoring
+- one point for each cell that gets filled by a piece
+- one point for each cell that then gets cleared
+- bonus for clearing at least one row or column.
+>> come back to bonus 
+
