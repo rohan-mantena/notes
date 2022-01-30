@@ -9,7 +9,6 @@ aliases:
 ---
 
 # Weeks
-{{< lst "1" "2" >}}
 
 # [Textbook: the Missing Link](hugo/content/docs/ugba135/theMissingLink.pdf) 
 
