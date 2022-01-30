@@ -8,7 +8,6 @@ bookCollapseSection: true
 
 # Weeks
 
-{{< lst "1" "2" "3" "4" "5" "6" >}}
 
 # [Textbook: the Missing Link](hugo/content/docs/ugba135/theMissingLink.pdf) 
 
