@@ -12,6 +12,5 @@ bookCollapseSection: true
 
 # Chapters
 
-{{< lst "1" "2" "3" "4" "5" "6" >}}
 
 &rarr; read chapter 3 + written notes . 
