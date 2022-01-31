@@ -13,9 +13,7 @@ type: docs
     - [ ] check on textbook 
 - [x] do [r5a assignment](https://bcourses.berkeley.edu/courses/1512298/discussion_topics/6242574)
     >> 
-        1. What I found interesting/surprising in Dunlap's readings : 
-
-        I found that Dunlap's act of shedding light on the hidden silence, and more so, how impactful self-silencing can be. Secondly, the description of how constrictive fear and silence can be. Lastly, the notion of being guided by your thoughts and having a purpose to stir and form those thoughts is significant in that it ensures your work will consistency be organic and all the more significant to you. 
+        1. What I found interesting/surprising in Dunlap's readings : I found that Dunlap's act of shedding light on the hidden silence, and more so, how impactful self-silencing can be. Secondly, the description of how constrictive fear and silence can be. Lastly, the notion of being guided by your thoughts and having a purpose to stir and form those thoughts is significant in that it ensures your work will consistency be organic and all the more significant to you. 
 
         2. I do not believe writer's block is intrinsically tied to shame as writer's block can be tied to a simple lack of thoughts or another preoccupation that is taking mental precedence, etc. However, I do believe that shame can be a component of writer's block if some situation occurred where a writer felt shame in what they were writing. I do not recall any memories of writer's block.  
 
@@ -40,6 +38,8 @@ type: docs
     - [ ] **Checkpoint 2 ~finish : Thursday 2/3** 
 - [ ] go through notes and discussion worksheet 
     &rarr; and do those problems (only after all assignments are complete though)
+- [ ] check lab 2 with others
+ 
 
 #### [Physics](/notes/docs/physics7a/)
 - [ ]  Mastering Physics HW 

@@ -27,3 +27,11 @@ weight: 3
 - bonus for clearing at least one row or column.
 >> come back to bonus 
 
+### play time 
+
+
+### Text Language
+- instead of interactive graphics, key words / text input will controll the game
+: 
+- new
+- se
