@@ -10,13 +10,13 @@
   displacement when someone walks 10 km east, then walks 5 km (i.e a quantity with both value and direction), change in position = ?">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://rohan-mantena.github.io/notes/physics7a/3/"><meta property="article:section" content="docs">
-<meta property="article:modified_time" content="2022-01-31T12:12:52-08:00">
+<meta property="article:modified_time" content="2022-02-01T13:53:01-08:00">
 <title>Chapter 3: Kinematics in Two or Three Dimensions; Vectors | berkeley.notes</title>
 <link rel=manifest href=/notes/manifest.json>
 <link rel=icon href=/notes/favicon.png type=image/x-icon>
 <link rel=stylesheet href=/notes/book.min.89a77f7e702a8626749b948bbfb01109823daf6c1246ca407d1378833494c402.css integrity="sha256-iad/fnAqhiZ0m5SLv7ARCYI9r2wSRspAfRN4gzSUxAI=" crossorigin=anonymous>
 <script defer src=/notes/flexsearch.min.js></script>
-<script defer src=/notes/en.search.min.223b475202012e9fdaa93c00e4daa6d610717906d532d18110fdda38391c04b5.js integrity="sha256-IjtHUgIBLp/aqTwA5Nqm1hBxeQbVMtGBEP3aODkcBLU=" crossorigin=anonymous></script>
+<script defer src=/notes/en.search.min.88de67466cae5b987328ed326161ebdbafed79850a8f576c292dd77652866737.js integrity="sha256-iN5nRmyuW5hzKO0yYWHr26/teYUKj1dsKS3XdlKGZzc=" crossorigin=anonymous></script>
 <script defer src=/notes/sw.min.102e0b752b65c874dd63b7b7ef9f8391b698d86adbb048ed0e6ddf02a6093f83.js integrity="sha256-EC4LdStlyHTdY7e375+DkbaY2GrbsEjtDm3fAqYJP4M=" crossorigin=anonymous></script>
 <link rel=icon href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📓</text></svg>">
 <script>MathJax={tex:{inlineMath:[["$","$"],[".$","$"]]}}</script>
@@ -134,7 +134,15 @@ Assignments
 <li><a href=#35-unit-vectors>3.5: Unit Vectors</a></li>
 <li><a href=#36-vector-kinematics>3.6: Vector Kinematics</a></li>
 <li><a href=#37-projectile-motion>3.7: Projectile Motion</a></li>
-<li><a href=#38-solving-problems-involving-projectile-motion>3.8: Solving Problems Involving Projectile Motion</a></li>
+<li><a href=#38-solving-problems-involving-projectile-motion>3.8: Solving Problems Involving Projectile Motion</a>
+<ul>
+<li>
+<ul>
+<li><a href=#steps>Steps</a></li>
+</ul>
+</li>
+</ul>
+</li>
 <li><a href=#39-relative-velocity>3.9: Relative Velocity</a></li>
 </ul>
 </nav>
@@ -222,8 +230,11 @@ steps to adding vectors
 <a class=anchor href=#35-unit-vectors>#</a>
 </h1>
 <ul>
+<li>a unit vector is defined to have a magnitude exactly equal to one
+in an x,y,z coordinate system they are called // hats</li>
 <li>all vectors are simply scaled versions of the unit vectors (i hat, j hat, k hat) (x,y,z)</li>
 <li>V = Vxi + Vyj + Vzk // add math later</li>
+<li></li>
 </ul>
 <h1 id=36-vector-kinematics>
 3.6: Vector Kinematics
@@ -261,6 +272,8 @@ instantaneous acceleration will be non-zero when the magnitude of velocity chang
 <a class=anchor href=#37-projectile-motion>#</a>
 </h1>
 <ul>
+<li>path of projectile motion is parabolic</li>
+<li>currently we are only discussing when the only acceleration is downward (gravity) - we are ignoring air reistance</li>
 <li>basic info to solve problems
 <ul>
 <li>g = 9.80</li>
@@ -274,12 +287,36 @@ instantaneous acceleration will be non-zero when the magnitude of velocity chang
 <a class=anchor href=#38-solving-problems-involving-projectile-motion>#</a>
 </h1>
 <p>// revisit once done with hw</p>
+<h3 id=steps>
+Steps
+<a class=anchor href=#steps>#</a>
+</h3>
+<ol>
+<li>Read carefully (choose the object to analyze)</li>
+<li>Draw a careful diagram showing what is happening to the object</li>
+<li>Choose an origin and an xy coordinate system</li>
+<li>Decide on the time interval, for which the object can only be under the motion of gravity
+x and y motions are conneceted by the common time</li>
+<li>Examine x and y components seperately → if given intial velocity, resolve into x and y components</li>
+<li>List known and unknown quantities, using ax = 0, ay = -g / +g, and + / - dephending on whether you choose y positive down or up
+<h5 id=helpful-tips>
+helpful tips
+<a class=anchor href=#helpful-tips>#</a>
+</h5>
+<ul>
+<li>Vx never changes</li>
+<li>Vy = 0 at highest point of any trajectory that returns downward</li>
+<li>velocity just before landing is generally not zero</li>
+</ul>
+</li>
+<li>Think/plan before eq.s → apply relevant eqs and combine eqs if neccesary</li>
+</ol>
 <h1 id=39-relative-velocity>
 3.9: Relative Velocity
 <a class=anchor href=#39-relative-velocity>#</a>
 </h1>
 <ul>
-<li>If 2 particles are on the same line, determinng their velocities, relative to each other, is a matter of simple addition / subtraction</li>
+<li>If 2 particles are on the same line, determing their velocities, relative to each other, is a matter of simple addition / subtraction</li>
 <li>When they are not along the same line, vector addition is used.</li>
 <li>Label carefully to maintain distinct and unambigious reference frames
 subscripts</li>
@@ -287,9 +324,9 @@ subscripts</li>
 </article>
 <footer class=book-footer>
 <div class="flex flex-wrap justify-between">
-<div><a class="flex align-center" href=https://github.com/rohan-mantena/notes/commit/0454b263d458caaecf6442bb1d08d7bc2d78a5e4 title="Last modified by Rohan Mantena | January 31, 2022" target=_blank rel=noopener>
+<div><a class="flex align-center" href=https://github.com/rohan-mantena/notes/commit/5c567d665b6053a7be3e64bec5a3e0e4523546b4 title="Last modified by Rohan Mantena | February 1, 2022" target=_blank rel=noopener>
 <img src=/notes/svg/calendar.svg class=book-icon alt=Calendar>
-<span>January 31, 2022</span>
+<span>February 1, 2022</span>
 </a>
 </div>
 <div>
@@ -324,7 +361,15 @@ subscripts</li>
 <li><a href=#35-unit-vectors>3.5: Unit Vectors</a></li>
 <li><a href=#36-vector-kinematics>3.6: Vector Kinematics</a></li>
 <li><a href=#37-projectile-motion>3.7: Projectile Motion</a></li>
-<li><a href=#38-solving-problems-involving-projectile-motion>3.8: Solving Problems Involving Projectile Motion</a></li>
+<li><a href=#38-solving-problems-involving-projectile-motion>3.8: Solving Problems Involving Projectile Motion</a>
+<ul>
+<li>
+<ul>
+<li><a href=#steps>Steps</a></li>
+</ul>
+</li>
+</ul>
+</li>
 <li><a href=#39-relative-velocity>3.9: Relative Velocity</a></li>
 </ul>
 </nav>
