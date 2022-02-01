@@ -6,21 +6,15 @@ type: docs
 ### Home.
 
 ## Today
-- [ ] email more professors about engl100 
-- [ ] watch [vidoes](https://www.youtube.com/watch?v=uQhTuRlWMxw&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=7&t=36s) 7 through 10 of 3B1B linear algebra videos 
-- [ugba 135](/notes/docs/ugba135/)
-    - [ ] read through notes and make small summaries 
-    - [ ] check on textbook 
-- [x] do [r5a assignment](https://bcourses.berkeley.edu/courses/1512298/discussion_topics/6242574)
-    >> 
-        1. What I found interesting/surprising in Dunlap's readings : I found that Dunlap's act of shedding light on the hidden silence, and more so, how impactful self-silencing can be. Secondly, the description of how constrictive fear and silence can be. Lastly, the notion of being guided by your thoughts and having a purpose to stir and form those thoughts is significant in that it ensures your work will consistency be organic and all the more significant to you. 
-
-        2. I do not believe writer's block is intrinsically tied to shame as writer's block can be tied to a simple lack of thoughts or another preoccupation that is taking mental precedence, etc. However, I do believe that shame can be a component of writer's block if some situation occurred where a writer felt shame in what they were writing. I do not recall any memories of writer's block.  
-
-        3. Some questions I'd like to pose to my peers are; have you ever been inhibited by fear to the extent you could not express your thoughts in writing and has some social situation ever occured to where you sought to write with such organic and powerful thought as expressed in the text? 
-    << 
-
-- [ ] read physics chapter 3 and start 
+- [ ] do physics hw 
+    - [ ] Mastering [Physics](https://mlm.pearson.com/northamerica/masteringphysics/) 
+    - [ ] Textbook (55, 70, 85, 98)
+- [ ] do lab 2 [CS](https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/lab/lab3/index.html)
+- [ ] grind colemak
+    - https://first20hours.github.io/keyzen-colemak/
+    - https://monkeytype.com 
+    - https://gnusenpai.net/colemakclub/
+    
 - [ ] start project 0 
 
 
