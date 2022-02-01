@@ -15,7 +15,7 @@ type: docs
     - https://monkeytype.com 
     - https://gnusenpai.net/colemakclub/
     
-- [ ] start project 0 
+- [ ] [project 0](/notes/docs/cs61b/project0) 
 
 
 ## Assignments 
