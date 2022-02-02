@@ -6,22 +6,23 @@ type: docs
 ### Home.
 
 ## Today
-- [ ] do physics hw 
-    - [x] Mastering [Physics](https://mlm.pearson.com/northamerica/masteringphysics/) 
-    - [ ] Textbook (55, 70, 85, 98)
-- [ ] do lab 2 [CS](https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/lab/lab3/index.html)
+- [ ] finish physics hw (ch 3 textbook)
+- [ ] do cs lab and hw before lecture 
+- [CS lecture](https://berkeley.zoom.us/j/93943293742?pwd=cEh3N3Ixa3RSaEMxZTNxbFdRK3BMZz09) (1-2 PM)
+- [ ] read physics chapter [Chapter 4](/notes/physics7a/4/) 
+- [ ] do [Mastering Physics homework](https://portal.mypearson.com/course-home#/tab/active) 
+
 - [ ] grind colemak
     - https://first20hours.github.io/keyzen-colemak/
     - https://monkeytype.com 
     - https://gnusenpai.net/colemakclub/
-    
-- [ ] [project 0](/notes/cs61b/project0) 
-
 
 ## Assignments 
 - [ ] [Project 0](/notes/cs61b/project0) : 
     - [ ] Checkpoint 1 ~[specify later] : Sunday 1/30
     - [ ] Checkpoint 2 ~finish : Thursday 2/3 
+- [ ] do hw 2 [CS](https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/hw/hw2/index.html)
+- [ ] do lab 2 [CS](https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/lab/lab3/index.html)
 
 - [ ] [Physics HW](/notes/docs/physics7a/)
     - [x]  Mastering Physics HW 
