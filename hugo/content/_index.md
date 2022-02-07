@@ -6,13 +6,10 @@ type: docs
 ### Home.
 
 ## Today
-- [ ] finish physics hw (ch 3 textbook)
-- [ ] do cs lab  
-- [ ] attempt cs homework to see what is challenging (take notes)
-- [ ] nap 
-- [CS lecture](https://berkeley.zoom.us/j/93943293742?pwd=cEh3N3Ixa3RSaEMxZTNxbFdRK3BMZz09) (1-2 PM) : [lecture slides](https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/lectures/lect7.pdf)
+- [ ] cs hw 2 (take notes)
+- [ ] ugba assignment 2  
 - [ ] read physics chapter [Chapter 4](/notes/physics7a/4/) 
-- [ ] do [Mastering Physics homework](https://portal.mypearson.com/course-home#/tab/active) 
+- [ ] do [Mastering Physics homework](https://portal.mypearson.com/course-home#/tab/active) and (textbook) ch 4 homework - 26, 54, 56, 57, 87 
 
 - [ ] grind colemak
     - https://first20hours.github.io/keyzen-colemak/
