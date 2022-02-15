@@ -14,7 +14,7 @@ weight: 3
     : the actual puzzle is a grid of empty square cells (the board) and a set of a number of pieces that are in the form of a configuration of those sqaure cell blocks (one's hand) 
 ![image](https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/proj/proj0/img/figure1.png)
     - after each piece is placed, any cells that have been filled are cleared
-    - after all the pieces inone's hand are placed, it is refilled with the same number of  pieces as before 
+    - after all the pieces in one's hand are placed, it is refilled with the same number of  pieces as before 
     - play continues until none of the pieces in the hand can fit anywhere on the board 
     
  
