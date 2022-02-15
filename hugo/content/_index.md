@@ -6,26 +6,24 @@ type: docs
 ### Home.
 
 ## Today
-- [ ] cs hw 2 ~ 1 hr 
-- [ ] finish physics chapter [Chapter 4](/notes/physics7a/4/) ~ 30 min 
-- [ ] do [Mastering Physics homework](https://portal.mypearson.com/course-home#/tab/active) and (textbook) ch 4 homework - 26, 54, 56, 57, 87 
+- study for cs 
+    - [ ] read up to current textbook readings
+    - [ ] take a practice exam 
+    - [ ] correct exam 
+    - [ ] review and understand mistakes
+
+
+## Assignments 
+- [ ] [Project 1](/notes/cs61b/project1) : Friday 3/4  
+    - [ ] Checkpoint 1 ~
+    - [ ] Checkpoint 2 ~
+    - [ ] Checkpoint 3 ~ finish by 2/28
+
+- [ ] do CS [lab 5](https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/lab/lab5/index.html) : Tuesday 2/22
+- [ ] Linux [Lecture](https://www.youtube.com/watch?v=7xAGcmhkflM) & [Lab](https://decal.ocf.berkeley.edu/labs0) 3 : Sat 2/19
 
 - [ ] grind colemak
     - https://first20hours.github.io/keyzen-colemak/
     - https://monkeytype.com 
     - https://gnusenpai.net/colemakclub/
-
-## Assignments 
-- [ ] [Project 0](/notes/cs61b/project0) : 
-    - [ ] Checkpoint 1 ~[specify later] : Sunday 1/30
-    - [ ] Checkpoint 2 ~finish : Thursday 2/3 
-- [ ] do hw 2 [CS](https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/hw/hw2/index.html)
-- [ ] do lab 2 [CS](https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/lab/lab3/index.html)
-
-- [ ] [Physics HW](/notes/docs/physics7a/)
-    - [x]  Mastering Physics HW 
-    - [ ]  Textbook Physics HW
-- [ ] Read [Chapter 4](/notes/physics7a/4/) 
-
-- [ ] Finish 3Blue1Brown ['Essence of Linear Algebra'](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) 
 
