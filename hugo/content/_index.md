@@ -6,9 +6,8 @@ type: docs
 ### Home.
 
 ## Today
-- [ ] cs hw 2 (take notes)
-- [ ] ugba assignment 2  
-- [ ] read physics chapter [Chapter 4](/notes/physics7a/4/) 
+- [ ] cs hw 2 ~ 1 hr 
+- [ ] finish physics chapter [Chapter 4](/notes/physics7a/4/) ~ 30 min 
 - [ ] do [Mastering Physics homework](https://portal.mypearson.com/course-home#/tab/active) and (textbook) ch 4 homework - 26, 54, 56, 57, 87 
 
 - [ ] grind colemak
