@@ -8,20 +8,18 @@
 <meta property="og:description" content="project-home-page  summary of instructions #   setup:  the puzzle #  : the actual puzzle is a grid of empty square cells (the board) and a set of a number of pieces that are in the form of a configuration of those sqaure cell blocks (one's hand)   - after each piece is placed, any cells that have been filled are cleared - after all the pieces in one&rsquo;s hand are placed, it is refilled with the same number of pieces as before - play continues until none of the pieces in the hand can fit anywhere on the board">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://rohan-mantena.github.io/notes/cs61b/project0/"><meta property="article:section" content="docs">
-<meta property="article:modified_time" content="2022-02-15T07:03:17-08:00">
-<title>Project 0 | berkeley.notes</title>
-<link rel=manifest href=/notes/manifest.json>
+<meta property="article:modified_time" content="2022-03-09T10:32:28-08:00">
+<title>Project 0 | berkeley.notes</title><link rel=manifest href=/notes/manifest.json>
 <link rel=icon href=/notes/favicon.png type=image/x-icon>
 <link rel=stylesheet href=/notes/book.min.89a77f7e702a8626749b948bbfb01109823daf6c1246ca407d1378833494c402.css integrity="sha256-iad/fnAqhiZ0m5SLv7ARCYI9r2wSRspAfRN4gzSUxAI=" crossorigin=anonymous>
 <script defer src=/notes/flexsearch.min.js></script>
-<script defer src=/notes/en.search.min.78b35464731de6b19d246e14b78e1f68ad4982a875f85ef0d3200a83879869db.js integrity="sha256-eLNUZHMd5rGdJG4Ut44faK1Jgqh1+F7w0yAKg4eYads=" crossorigin=anonymous></script>
+<script defer src=/notes/en.search.min.64e84a73fb912c0a0e32c7706ac1fd0e35485270c3adbf5341761b0315385a13.js integrity="sha256-ZOhKc/uRLAoOMsdwasH9DjVIUnDDrb9TQXYbAxU4WhM=" crossorigin=anonymous></script>
 <script defer src=/notes/sw.min.102e0b752b65c874dd63b7b7ef9f8391b698d86adbb048ed0e6ddf02a6093f83.js integrity="sha256-EC4LdStlyHTdY7e375+DkbaY2GrbsEjtDm3fAqYJP4M=" crossorigin=anonymous></script>
 <link rel=icon href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📓</text></svg>">
 <script>MathJax={tex:{inlineMath:[["$","$"],[".$","$"]]}}</script>
 <script id=MathJax-script async src=https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.min.js integrity="sha512-9DkJEmXbL/Tdj8b1SxJ4H2p3RCAXKsu8RqbznEjhFYw0cFIWlII+PnGDU2FX3keyE9Ev6eFaDPyEAyAL2cEX0Q==" crossorigin=anonymous referrerpolicy=no-referrer></script>
 <link rel=stylesheet href=https://rohan-mantena.github.io/notes/css/custom_styling.css>
-</head>
-<body dir=ltr>
+</head><body dir=ltr>
 <input type=checkbox class="hidden toggle" id=menu-control>
 <input type=checkbox class="hidden toggle" id=toc-control>
 <main class="container flex">
@@ -31,82 +29,16 @@
 <h2 class=book-brand>
 <a class="flex align-center" href=/notes/><span>berkeley.notes</span>
 </a>
-</h2>
-<div class=book-search>
+</h2><div class=book-search>
 <input type=text id=book-search-input placeholder=Search aria-label=Search maxlength=64 data-hotkeys=s/>
-<div class="book-search-spinner hidden"></div>
-<ul id=book-search-results></ul>
-</div>
-<ul>
-<li>
-<input type=checkbox id=section-85bfb3597cd33a5916a6cbe038398cff class=toggle checked>
-<label for=section-85bfb3597cd33a5916a6cbe038398cff class="flex justify-between">
-<a href=https://rohan-mantena.github.io/notes/docs/cs61b/>CS 61B</a>
-</label>
-<ul>
-<li>
-<a href=https://rohan-mantena.github.io/notes/cs61b/project0/ class=active>Project 0</a>
-</li>
-</ul>
-</li>
-<li>
-<input type=checkbox id=section-dab71bdcbadff0fb56f5b6181de93f45 class=toggle>
-<label for=section-dab71bdcbadff0fb56f5b6181de93f45 class="flex justify-between">
-<a href=https://rohan-mantena.github.io/notes/docs/math54/>Math 54</a>
-</label>
-<ul>
-</ul>
-</li>
-<li>
-<input type=checkbox id=section-5030e471807511aabd732314e0cc6d8e class=toggle>
-<label for=section-5030e471807511aabd732314e0cc6d8e class="flex justify-between">
-<a href=https://rohan-mantena.github.io/notes/docs/ugba135/>UGBA 135</a>
-</label>
-<ul>
-<li>
-<a href=https://rohan-mantena.github.io/notes/ugba135/1/>Week 1</a>
-</li>
-<li>
-<a href=https://rohan-mantena.github.io/notes/ugba135/2/>Week 2</a>
-</li>
-<li>
-<a href=https://rohan-mantena.github.io/notes/ugba135/3/>Week 3</a>
-</li>
-</ul>
-</li>
-<li>
-<input type=checkbox id=section-207a0baa5595ff8c2709e9b9d0a3270a class=toggle>
-<label for=section-207a0baa5595ff8c2709e9b9d0a3270a class="flex justify-between">
-<a href=https://rohan-mantena.github.io/notes/docs/physics7a/>Physics 7A</a>
-</label>
-<ul>
-<li>
-<a href=https://rohan-mantena.github.io/notes/physics7a/1/>Chapter 1: Intro, Measurement, Estimating</a>
-</li>
-<li>
-<a href=https://rohan-mantena.github.io/notes/physics7a/2/>Chapter 2: Describing Motion: Kinematics in 1D</a>
-</li>
-<li>
-<a href=https://rohan-mantena.github.io/notes/physics7a/3/>Chapter 3: Kinematics in Two or Three Dimensions; Vectors</a>
-</li>
-<li>
-<a href=https://rohan-mantena.github.io/notes/physics7a/4/>Chapter 4: Dynamics: Newton's Laws of Motion</a>
-</li>
-</ul>
-</li>
-</ul>
-<ul>
+<div class="book-search-spinner hidden"></div><ul id=book-search-results></ul></div><ul>
+</ul><ul>
 <li>
 <a href="https://static.wikia.nocookie.net/disney/images/d/dd/Profile_-_Lewis_Robinson.jpeg/revision/latest?cb=20190624041928" target=_blank rel=noopener>
 Assignments
 </a>
-</li>
-</ul>
-</nav>
-<script>(function(){var a=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(b){localStorage.setItem("menu.scrollTop",a.scrollTop)}),a.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
-</div>
-</aside>
-<div class=book-page>
+</li></ul></nav><script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+</div></aside><div class=book-page>
 <header class=book-header>
 <div class="flex align-center justify-between">
 <label for=menu-control>
@@ -116,99 +48,56 @@ Assignments
 <label for=toc-control>
 <img src=/notes/svg/toc.svg class=book-icon alt="Table of Contents">
 </label>
-</div>
-<aside class="hidden clearfix">
+</div><aside class="hidden clearfix">
 <nav id=TableOfContents>
 <ul>
 <li>
 <ul>
 <li><a href=#summary-of-instructions>summary of instructions</a>
 <ul>
-<li><a href=#the-puzzle>the puzzle</a></li>
-<li><a href=#scoring>scoring</a></li>
-<li><a href=#play-time>play time</a></li>
-<li><a href=#text-language>Text Language</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</nav>
-</aside>
-</header>
-<article class=markdown><ul>
+<li><a href=#the-puzzle>the puzzle</a></li><li><a href=#scoring>scoring</a></li><li><a href=#play-time>play time</a></li><li><a href=#text-language>Text Language</a></li></ul></li></ul></li></ul></nav></aside></header><article class=markdown><ul>
 <li>
-<a href=https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/proj/proj0/index.html>project-home-page</a></li>
-</ul>
-<h2 id=summary-of-instructions>
+<a href=https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/proj/proj0/index.html>project-home-page</a></li></ul><h2 id=summary-of-instructions>
 summary of instructions
 <a class=anchor href=#summary-of-instructions>#</a>
-</h2>
-<ul>
-<li><input disabled type=checkbox> setup:</li>
-</ul>
-<h3 id=the-puzzle>
+</h2><ul>
+<li><input disabled type=checkbox> setup:</li></ul><h3 id=the-puzzle>
 the puzzle
 <a class=anchor href=#the-puzzle>#</a>
-</h3>
-<pre><code>: the actual puzzle is a grid of empty square cells (the board) and a set of a number of pieces that are in the form of a configuration of those sqaure cell blocks (one's hand) 
-</code></pre>
-<p>
+</h3><pre><code>: the actual puzzle is a grid of empty square cells (the board) and a set of a number of pieces that are in the form of a configuration of those sqaure cell blocks (one's hand) 
+</code></pre><p>
 <img src=https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/proj/proj0/img/figure1.png alt=image>
 - after each piece is placed, any cells that have been filled are cleared
 - after all the pieces in one&rsquo;s hand are placed, it is refilled with the same number of pieces as before
-- play continues until none of the pieces in the hand can fit anywhere on the board</p>
-<p><strong>by default</strong> the board consists of an 8x8 grid (64 cells) and the hand contains 3 pieces at a time - need to able to change these parameters though</p>
-<h3 id=scoring>
+- play continues until none of the pieces in the hand can fit anywhere on the board</p><p><strong>by default</strong> the board consists of an 8x8 grid (64 cells) and the hand contains 3 pieces at a time - need to able to change these parameters though</p><h3 id=scoring>
 scoring
 <a class=anchor href=#scoring>#</a>
-</h3>
-<ul>
-<li>one point for each cell that gets filled by a piece</li>
-<li>one point for each cell that then gets cleared</li>
-<li>bonus for clearing at least one row or column.</li>
-</ul>
+</h3><ul>
+<li>one point for each cell that gets filled by a piece</li><li>one point for each cell that then gets cleared</li><li>bonus for clearing at least one row or column.</li></ul><blockquote>
 <blockquote>
-<blockquote>
-<p>come back to bonus</p>
-</blockquote>
-</blockquote>
-<h3 id=play-time>
+<p>come back to bonus</p></blockquote></blockquote><h3 id=play-time>
 play time
 <a class=anchor href=#play-time>#</a>
-</h3>
-<h3 id=text-language>
+</h3><h3 id=text-language>
 Text Language
 <a class=anchor href=#text-language>#</a>
-</h3>
-<ul>
+</h3><ul>
 <li>instead of interactive graphics, key words / text input will controll the game
-:</li>
-<li>new</li>
-<li>se</li>
-</ul>
-</article>
-<footer class=book-footer>
+:</li><li>new</li><li>se</li></ul></article><footer class=book-footer>
 <div class="flex flex-wrap justify-between">
-<div><a class="flex align-center" href=https://github.com/rohan-mantena/notes/commit/b5560668402dba670618a904ba085f41f06dafee title="Last modified by Rohan Mantena | February 15, 2022" target=_blank rel=noopener>
+<div><a class="flex align-center" href=https://github.com/rohan-mantena/notes/commit/08c706cbd8c6cebb46f52cc1c145ecaf3688dfe9 title="Last modified by Rohan Mantena | March 9, 2022" target=_blank rel=noopener>
 <img src=/notes/svg/calendar.svg class=book-icon alt=Calendar>
-<span>February 15, 2022</span>
+<span>March 9, 2022</span>
 </a>
-</div>
-<div>
-<a class="flex align-center" href=https://github.com/rohan-mantena/notes/edit/master/hugo/content/docs/cs61b/project0.md target=_blank rel=noopener>
+</div><div>
+<a class="flex align-center" href=https://github.com/rohan-mantena/notes/edit/master/hugo/content/docs/spring-2022/cs61b/project0.md target=_blank rel=noopener>
 <img src=/notes/svg/edit.svg class=book-icon alt=Edit>
 <span>Edit this page</span>
 </a>
-</div>
-</div>
-<script>(function(){function a(c){const a=window.getSelection(),b=document.createRange();b.selectNodeContents(c),a.removeAllRanges(),a.addRange(b)}document.querySelectorAll("pre code").forEach(b=>{b.addEventListener("click",function(c){a(b.parentElement),navigator.clipboard&&navigator.clipboard.writeText(b.parentElement.textContent)})})})()</script>
-</footer>
-<div class=book-comments>
-</div>
-<label for=menu-control class="hidden book-menu-overlay"></label>
-</div>
-<aside class=book-toc>
+</div></div><script>(function(){function e(n){const e=window.getSelection(),t=document.createRange();t.selectNodeContents(n),e.removeAllRanges(),e.addRange(t)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+</footer><div class=book-comments>
+</div><label for=menu-control class="hidden book-menu-overlay"></label>
+</div><aside class=book-toc>
 <div class=book-toc-content>
 <nav id=TableOfContents>
 <ul>
@@ -216,18 +105,4 @@ Text Language
 <ul>
 <li><a href=#summary-of-instructions>summary of instructions</a>
 <ul>
-<li><a href=#the-puzzle>the puzzle</a></li>
-<li><a href=#scoring>scoring</a></li>
-<li><a href=#play-time>play time</a></li>
-<li><a href=#text-language>Text Language</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</nav>
-</div>
-</aside>
-</main>
-</body>
-</html>
+<li><a href=#the-puzzle>the puzzle</a></li><li><a href=#scoring>scoring</a></li><li><a href=#play-time>play time</a></li><li><a href=#text-language>Text Language</a></li></ul></li></ul></li></ul></nav></div></aside></main></body></html>
