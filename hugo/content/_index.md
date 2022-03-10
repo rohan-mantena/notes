@@ -19,16 +19,13 @@ type: docs
  
  doubt exists, failure does not. 
 
-
-- reach 90 wpm on [monkeytype](https://monkeytype.com)
-
-
 ## Assignments 
 - [ ] do CS [lab 8](https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/lab/lab8/index.html) : Friday 3/11
 - [ ] Linux [Lectures](https://decal.ocf.berkeley.edu) - write notes (+ reflections on past labs) 
 - [ ] [Lab 6](https://decal.ocf.berkeley.edu/labs/b6) - Processes : Saturday 3/12
 
 # Free Time
+- [ ] reach 90 wpm on [monkeytype](https://monkeytype.com)
 - [ ] customize terminal and bash/zsh profile
 - [ ] listen to [the clash](https://music.apple.com/us/album/london-calling/684811762), chief keef, death grips 
 
