@@ -14,6 +14,7 @@ draft: false
     - [ ] see Hilfinger Lecture on Complexity and Algorithmic Analysis https://kaf.berkeley.edu/media/t/1_30m47wkw/243292082 
 - finish Triton notification system -> iloc + get? 
 - Linux [Processes Lecture](https://youtu.be/Z_q1zkeWEFs) -> [Lab 6](https://decal.ocf.berkeley.edu/labs/b6)
+- do Linux b1, b2, b6 participation ! 
 
  doubt exists, failure does not. 
 
