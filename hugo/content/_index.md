@@ -9,10 +9,10 @@ draft: false
 ## Today 
 ** Even if ideas seem simple, acquriing new perspectives only aids the pursuit of knowledge ** 
 
-- finish Triton notification system -> iloc + get? 
-[ ] do CS [lab 8](https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/lab/lab8/index.html) 
+- [ ] do CS [lab 8](https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/lab/lab8/index.html) 
     - see [hw5](https://www.gradescope.com/courses/350363/assignments/1864361/submissions/115826366) 
     - [ ] see Hilfinger Lecture on Complexity and Algorithmic Analysis https://kaf.berkeley.edu/media/t/1_30m47wkw/243292082 
+- finish Triton notification system -> iloc + get? 
 - Linux [Processes Lecture](https://youtu.be/Z_q1zkeWEFs) -> [Lab 6](https://decal.ocf.berkeley.edu/labs/b6)
 
  doubt exists, failure does not. 
