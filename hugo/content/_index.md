@@ -10,7 +10,7 @@ draft: false
 ** Even if ideas seem simple, acquriing new perspectives only aids the pursuit of knowledge ** 
 
 - [ ] finish Triton notification system -> iloc + get? 
-- [ ] after Triton notification system are done -> : start css / dashboard 
+- [ ] start [Triton Dashboard](https://tritonsensors.cloud) + establish attack plan 
 - [ ] reach 90 wpm on [monkeytype](https://monkeytype.com)
 
  doubt exists, failure does not. 
