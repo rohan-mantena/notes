@@ -9,7 +9,22 @@ draft: false
 ## Today 
 ** Even if ideas seem simple, acquriing new perspectives only aids the pursuit of knowledge ** 
 
-- [ ] finish Triton notification system -> iloc + get? 
+- [ ] catch up to CS : takes notes on lectures  
+    - [ ] Packages and Access 
+    - [ ] Integers/Bits  
+    - [x] Complexity 
+    - [ ] Collections/Amortization 
+    - [ ] Sequences, Some Design Patterns 
+    - [ ] Sequnces II 
+    - [ ] Tress 
+    - [ ] Tree Searching 
+    - [ ] Hashing 
+- [ ] catch to ugba (class 7 / chapter 13)
+    - [ ] assignment #3 multiple choice & true/false 
+    - [ ] class 5 video quiz
+    - [ ] class 6 video quiz
+    - [ ] class 7 video quiz
+    
 - [ ] start [Triton Dashboard](https://tritonsensors.cloud) + establish attack plan 
 - [ ] reach 90 wpm on [monkeytype](https://monkeytype.com)
 
@@ -18,7 +33,7 @@ draft: false
 ## Assignments 
 
 
-# Free Time / To Do 
+## Free Time / To Do 
 - [ ] reach 90 wpm on [monkeytype](https://monkeytype.com)
 - [ ] enable cookies and ad-blocker 
 - [ ] fix hugo menu / table of contents 
