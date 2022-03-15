@@ -1,5 +1,5 @@
 ---
-title: "Complexity and Algoritmic Analysis"
+title: "Complexity and Algoritmic Analysis!"
 weight: 2
 ---
 
