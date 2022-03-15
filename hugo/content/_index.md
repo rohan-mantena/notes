@@ -9,7 +9,7 @@ draft: false
 ## Today 
 ** Even if ideas seem simple, acquriing new perspectives only aids the pursuit of knowledge ** 
 
-- [ ] finish checkpoint 1 for [Ataax](/cs61b/project2.md)
+- [ ] finish checkpoint 1 for [Ataax](/docs/cs61b/project2.md)
     - [ ] read through spec (take notes)
     - [ ] watch [Ataax Introduction Video](https://youtu.be/3yOvYgWgJ7A)
     - [ ] watch skeleton overview video (maybe take notes)
