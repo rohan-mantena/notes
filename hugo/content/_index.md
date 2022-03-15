@@ -9,6 +9,15 @@ draft: false
 ## Today 
 ** Even if ideas seem simple, acquriing new perspectives only aids the pursuit of knowledge ** 
 
+- [ ] finish checkpoint 1 for [Ataax](/cs61b/project2.md)
+    - [ ] read through spec (take notes)
+    - [ ] watch [Ataax Introduction Video](https://youtu.be/3yOvYgWgJ7A)
+    - [ ] watch skeleton overview video (maybe take notes)
+    - [ ] summarize goals for checkpoint 1 and get to work  
+
+ doubt exists, failure does not. 
+
+## Assignments 
 - [ ] catch up to CS : takes notes on lectures  
     - [ ] Packages and Access 
     - [ ] Integers/Bits  
@@ -19,19 +28,8 @@ draft: false
     - [ ] Tress 
     - [ ] Tree Searching 
     - [ ] Hashing 
-- [ ] catch to ugba (class 7 / chapter 13)
-    - [ ] assignment #3 multiple choice & true/false 
-    - [ ] class 5 video quiz
-    - [ ] class 6 video quiz
-    - [ ] class 7 video quiz
-    
 - [ ] start [Triton Dashboard](https://tritonsensors.cloud) + establish attack plan 
 - [ ] reach 90 wpm on [monkeytype](https://monkeytype.com)
-
- doubt exists, failure does not. 
-
-## Assignments 
-
 
 ## Free Time / To Do 
 - [ ] reach 90 wpm on [monkeytype](https://monkeytype.com)
