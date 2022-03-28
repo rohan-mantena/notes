@@ -7,29 +7,26 @@ draft: false
 ### Home.
 
 ## Today 
-** Even if ideas seem simple, acquriing new perspectives only aids the pursuit of knowledge ** 
+Even if ideas seem simple, acquriing new perspectives only aids the pursuit of knowledge
 
-- [ ] finish checkpoint 1 for [Ataax](/docs/cs61b/project2.md)
-    - [ ] read through spec (take notes)
-    - [ ] watch [Ataax Introduction Video](https://youtu.be/3yOvYgWgJ7A)
-    - [ ] watch skeleton overview video (maybe take notes)
-    - [ ] summarize goals for checkpoint 1 and get to work  
+- [ ] [61B lectures](https://bcourses.berkeley.edu/courses/1513117/external_tools/78985): 
+    1. Sequences, Some Design Patterns
+    2. Sequences II
+    3. Trees
+    4. Tree Searching
+    5. Hashing
+- [ ] [homework 6](https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/hw/hw6/index.html#f-submission)
+- [ ] missing geo assigments (free time)
 
- doubt exists, failure does not. 
+- [ ] read thru spec with regard to non Board.java (take notes if needed)
+- [ ] finish AI.java
+- [ ] [ugba 135 lecture](https://berkeley.zoom.us/w/96320207375?tk=S1EqJ5EK6muWS5mqQ0eihj51cZCulr1J8572Cj57q-M.DQMAAAAWbSG6DxZjRm5Cd2RaTFJuT2tPOGFZeHk0U0ZnAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=UXJYdjlpWkcxVC8vY0JER1Jmc3ZQdz09)
+
+ **doubt exists, failure does not.**
+
 
 ## Assignments 
-- [ ] catch up to CS : takes notes on lectures  
-    - [ ] Packages and Access 
-    - [ ] Integers/Bits  
-    - [x] Complexity 
-    - [ ] Collections/Amortization 
-    - [ ] Sequences, Some Design Patterns 
-    - [ ] Sequnces II 
-    - [ ] Tress 
-    - [ ] Tree Searching 
-    - [ ] Hashing 
-- [ ] start [Triton Dashboard](https://tritonsensors.cloud) + establish attack plan 
-- [ ] reach 90 wpm on [monkeytype](https://monkeytype.com)
+
 
 ## Free Time / To Do 
 - [ ] reach 90 wpm on [monkeytype](https://monkeytype.com)
