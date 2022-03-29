@@ -9,24 +9,23 @@ draft: false
 ## Today 
 Even if ideas seem simple, acquriing new perspectives only aids the pursuit of knowledge
 
-- [ ] [61B lectures](https://bcourses.berkeley.edu/courses/1513117/external_tools/78985): 
+- [ ] [61B lectures](https://bcourses.berkeley.edu/courses/1513117/external_tools/78985):
     1. Sequences, Some Design Patterns
     2. Sequences II
     3. Trees
     4. Tree Searching
-    5. Hashing
+    - [ ] 5. Hashing
 - [ ] [homework 6](https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/hw/hw6/index.html#f-submission)
-- [ ] missing geo assigments (free time)
-
-- [ ] read thru spec with regard to non Board.java (take notes if needed)
-- [ ] finish AI.java
-- [ ] [ugba 135 lecture](https://berkeley.zoom.us/w/96320207375?tk=S1EqJ5EK6muWS5mqQ0eihj51cZCulr1J8572Cj57q-M.DQMAAAAWbSG6DxZjRm5Cd2RaTFJuT2tPOGFZeHk0U0ZnAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=UXJYdjlpWkcxVC8vY0JER1Jmc3ZQdz09)
+- [x] read thru spec with regard to non Board.java 
+- [ ] finish AI.java (watch lecture on game hashing first)
 
  **doubt exists, failure does not.**
 
 
 ## Assignments 
-
+- [ ] hw6
+- [ ] [Project 2](https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/proj/proj2/index.html) -- AI.java -- 
+- [ ] [Map Exercise 1](https://smccd.instructure.com/courses/41664/assignments/1007748)
 
 ## Free Time / To Do 
 - [ ] reach 90 wpm on [monkeytype](https://monkeytype.com)
