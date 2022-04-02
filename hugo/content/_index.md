@@ -7,28 +7,23 @@ draft: false
 ### Home.
 
 ## Today 
-Even if ideas seem simple, acquriing new perspectives only aids the pursuit of knowledge
-
-- [ ] [61B lectures](https://bcourses.berkeley.edu/courses/1513117/external_tools/78985):
-    1. Sequences, Some Design Patterns
-    2. Sequences II
-    3. Trees
-    4. Tree Searching
-    - [ ] 5. Hashing
-- [ ] [homework 6](https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/hw/hw6/index.html#f-submission)
-- [x] read thru spec with regard to non Board.java 
-- [ ] finish AI.java (watch lecture on game hashing first)
+Even if ideas seem simple, acquriing new perspectives only aids the pursuit of knowledge 
 
  **doubt exists, failure does not.**
 
 
-## Assignments 
-- [ ] hw6
-- [ ] [Project 2](https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/proj/proj2/index.html) -- AI.java -- 
-- [ ] [Map Exercise 1](https://smccd.instructure.com/courses/41664/assignments/1007748)
+## Assignments  
+- [ ] **study and control 61b midterm 2** 
+- [ ] [Map Exercise 1](https://smccd.instructure.com/courses/41664/assignments/1007748) : *late*
+- [ ] [Power of Myth Chapter 2](https://smccd.instructure.com/courses/43472/assignments/1040365) : Monday 4/4 - 11 AM 
+- [ ] [Selfie Field Trip #4](https://smccd.instructure.com/courses/41664/discussion_topics/594954) : Tuesday 4/5 
+- [ ] [Portfolio of Creation Myths](https://smccd.instructure.com/courses/43472/assignments/1040351) : Wednesday 4/6
+- [ ] [Power of Myth Chapter 3](https://smccd.instructure.com/courses/43472/assignments/1040366) : Friday 4/8
 
 ## Free Time / To Do 
-- [ ] reach 90 wpm on [monkeytype](https://monkeytype.com)
+- [ ] privacy !!
+- [ ] check bills and get new patelco card 
+- [ ] linkedin
 - [ ] enable cookies and ad-blocker 
 - [ ] fix hugo menu / table of contents 
 - [ ] fix download issue with apple music (call dad for authorizing)
