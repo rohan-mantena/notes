@@ -13,20 +13,21 @@ draft: false
     - Sorting I II III 
     - Balanced Search Structure I II 
 - [ ] [HW 7](https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/hw/hw7/index.html)
+- [ ] [Engl100 Assignment](https://smccd.instructure.com/courses/43472/assignments/1040331) 
 - [ ] Problem Sets for Jack 
-- [ ] Project 3 Introduction
-    - [ ] ?..  
+- [ ] dashboard 
 
  **doubt exists, failure does not.**
 
 
 ## Assignments  
-- [ ] **study and control 61b midterm 2** 
-- [ ] [Map Exercise 1](https://smccd.instructure.com/courses/41664/assignments/1007748) : *late*
-- [ ] [Power of Myth Chapter 2](https://smccd.instructure.com/courses/43472/assignments/1040365) : Monday 4/4 - 11 AM 
-- [ ] [Selfie Field Trip #4](https://smccd.instructure.com/courses/41664/discussion_topics/594954) : Tuesday 4/5 
-- [ ] [Portfolio of Creation Myths](https://smccd.instructure.com/courses/43472/assignments/1040351) : Wednesday 4/6
-- [ ] [Power of Myth Chapter 3](https://smccd.instructure.com/courses/43472/assignments/1040366) : Friday 4/8
+- [ ] [Lab 13](https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/lab/lab13/index.html) : 4/15
+- [ ] [HW 8](https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/hw/hw8/index.html) : 4/19 
+- [ ] [Project 3](https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/proj/proj3/index.html) checkpoint : 4/22
+- [ ] Linux [Lab 10](https://decal.ocf.berkeley.edu/labs/b10) and [Participation 10](https://www.gradescope.com/courses/346688/assignments/1794706/submissions/new) : 4/16
+- [ ] [Engl100 Quiz](https://smccd.instructure.com/courses/43472/assignments/1040358) on Mask You Live In : 4/13
+- [ ] Power of Myth Ch 4 : 4/14
+- [ ] [Engl100 Essay 2](https://smccd.instructure.com/courses/43472/assignments/1040339) : 4/16
 
 ## Free Time / To Do 
 - [ ] privacy !!
