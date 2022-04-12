@@ -7,7 +7,15 @@ draft: false
 ### Home.
 
 ## Today 
-Even if ideas seem simple, acquriing new perspectives only aids the pursuit of knowledge 
+Even if ideas s eem simple, acquriing new perspectives only aids the pursuit of knowledge 
+- [ ] [lab 12](https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/lab/lab12/index.html) ~ 30 min 
+- [ ] watch cs lectures 
+    - Sorting I II III 
+    - Balanced Search Structure I II 
+- [ ] [HW 7](https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/hw/hw7/index.html)
+- [ ] Problem Sets for Jack 
+- [ ] Project 3 Introduction
+    - [ ] ?..  
 
  **doubt exists, failure does not.**
 
