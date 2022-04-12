@@ -7,7 +7,7 @@ draft: false
 ### Home.
 
 ## Today 
-Even if ideas s eem simple, acquriing new perspectives only aids the pursuit of knowledge 
+***every chance that I get***
 - [ ] [lab 12](https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/lab/lab12/index.html) ~ 30 min 
 - [ ] watch cs lectures 
     - Sorting I II III 
