@@ -8,14 +8,16 @@ draft: false
 
 ## Today 
 ***every chance that I get***
-- [ ] [lab 12](https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/lab/lab12/index.html) ~ 30 min 
-- [ ] watch cs lectures 
-    - Sorting I II III 
-    - Balanced Search Structure I II 
-- [ ] [HW 7](https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/hw/hw7/index.html)
-- [ ] [Engl100 Assignment](https://smccd.instructure.com/courses/43472/assignments/1040331) 
-- [ ] Problem Sets for Jack 
-- [ ] dashboard 
+- [ ] take notes no sorting :..
+    - Hilfinger lectures / 61B staff notes / 
+    - Ben Cuan 
+    - MIT OCW 
+    - additional resources 
+- [ ] watch Balanced Search Structure I & II (+ see additional resources)
+- [ ] watch Git Internals
+- [ ] read through project spec (+ see vides)
+- [ ] <time?> -> lab 13 <- tomorrow 
+- [ ] Problem Sets for Jack
 
  **doubt exists, failure does not.**
 
@@ -25,7 +27,6 @@ draft: false
 - [ ] [HW 8](https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/hw/hw8/index.html) : 4/19 
 - [ ] [Project 3](https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/proj/proj3/index.html) checkpoint : 4/22
 - [ ] Linux [Lab 10](https://decal.ocf.berkeley.edu/labs/b10) and [Participation 10](https://www.gradescope.com/courses/346688/assignments/1794706/submissions/new) : 4/16
-- [ ] [Engl100 Quiz](https://smccd.instructure.com/courses/43472/assignments/1040358) on Mask You Live In : 4/13
 - [ ] Power of Myth Ch 4 : 4/14
 - [ ] [Engl100 Essay 2](https://smccd.instructure.com/courses/43472/assignments/1040339) : 4/16
 
